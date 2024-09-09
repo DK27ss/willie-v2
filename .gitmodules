@@ -1,0 +1,3 @@
+[submodule "x/y"]
+	path = A/modules/x
+	url = C:/DEV/RCE_GIST/Willie-V2/hook
