@@ -1,6 +1,3 @@
-      git clone --recursive https://github.com/DK27ss/willie-v2
-
-
 # Willie V2 - C2 Backdoor for Windows systems.
 ### Go implant using Discord as a C2 team server
 ### Still in development
@@ -9,6 +6,8 @@
 </p>
 
 ## 💉 Features
+
+- 10/09/2024 - FUD
 
 - RC4 Encryption Tunneling
 - Executing shell commands (cmd, powershell, wmic)
