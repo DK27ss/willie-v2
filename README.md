@@ -8,8 +8,9 @@
 <img src="willie.png" width="250" >
 </p>
 
-## Features
+## 💉 Features
 
+- RC4 Encryption Tunneling
 - Executing shell commands (cmd, powershell, wmic)
 - Files and Directories (listing, removing...)
 - Uploading and Downloading files
@@ -22,7 +23,7 @@
 - Shellcode injection using HellsGate technique
 - CLR binary injection
   
-## Installation
+## ⚙️ Installation
 
 - Clone this repos
 
@@ -30,7 +31,7 @@
 
 - Check Token settings (setup_config.py)
 
-## Setup
+## 📡 Setup
 
 - Turn on Developer mode in Settings -> Advanced
 - Create a new discord server, creating a channel is optional, you can use channel "general", copy its ID and save it in "setup_config.py" CHANNEL variable
@@ -50,7 +51,7 @@ The program uses Mutex lock to prevent it from running more than once simultaneo
 ![Demo](https://user-images.githubusercontent.com/46089361/184121473-c7aa3378-1f38-4cec-ad26-d6aff31bdb2b.gif)
 
 
-## TODO
+## 🥤 TODO
 
 - [ ] Process Migration
 - [ ] Process Token Manipulation
